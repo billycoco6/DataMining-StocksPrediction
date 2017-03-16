@@ -1,6 +1,6 @@
-## DataMining-StocksPrediction
+# DataMining-StocksPrediction
 
-# Resources
+## Resources
 
 1) Stock Lists (http://www.set.or.th/set/commonslookup.do?language=en&country=US&prefix={prefix}) eg. NUMBER, A, B, ... Z
 
@@ -8,7 +8,7 @@
 
 3) Stock Price (https://marketdata.set.or.th/mkt/stockquotation.do?symbol={stock-symbol}&ssoPageId=1&language=en&country=US)
 
-# Point
+## Point
 
 1) 'EPS' increase every year
 
@@ -18,6 +18,6 @@
 
 4) 'Avg PE' with penalty to outlier (current year is the base)
 
-# Calculation
+## Calculation
 
 1) Take the 'Avg PE' ==> Multiply it with 'Predicted EPS' to get the 'Real Price of that stock'
