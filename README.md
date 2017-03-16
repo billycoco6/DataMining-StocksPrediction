@@ -20,4 +20,4 @@
 
 # Calculation
 
-1) Take the 'Avg PE'
+1) Take the 'Avg PE' ==> Multiply it with 'Predicted EPS' to get the 'Real Price of that stock'
